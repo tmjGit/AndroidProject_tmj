@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Project TMJ</string>
+    <string name="submit">Bestätigen</string>
+
+    <string-array name="ice_cream_flavours">
+        <item>Brauner Bär</item>
+        <item>Capri</item>
+        <item>Domino</item>
+        <item>Nogger</item>
+        <item>Sandwich</item>
+    </string-array>
+    <string-array name="sexes">
+        <item>unbekannt</item>
+        <item>weiblich</item>
+        <item>männlich</item>
+        <item>trans</item>
+    </string-array>
+</resources>

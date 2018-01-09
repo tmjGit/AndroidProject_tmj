@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_menu_item1"
+        android:icon="@drawable/ic_check_black_24dp"
+        android:title="OK1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/main_menu_item3"
+        android:checkable="true"
+        android:icon="@drawable/ic_cim"
+        android:title="three"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/main_menu_item2"
+        android:icon="@drawable/ic_child_care_black_24dp"
+        android:title="No2 Long Text"
+        app:showAsAction="ifRoom|withText" />
+</menu>

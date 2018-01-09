@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ABSOLUTE">1</integer>
+    <integer name="RIGHT_OF">2</integer>
+    <integer name="BENEATH">4</integer>
+    <integer name="DEFAULT">8</integer>
+</resources>

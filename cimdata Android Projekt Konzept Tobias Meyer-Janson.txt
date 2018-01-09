@@ -1,0 +1,22 @@
+﻿cimdata Android 2017/2018
+
+Projekt von Tobias Meyer-Janson
+Kurzkonzept
+
+Fernziel (außerhalb des Projekts):
+Übertragung einer vorhandenen komplexen FileMaker Pro Datenbank bspw. auf eine SQL Datenbank und Programmierung einer (bzw. mehrerer) Crossplatform Oberflächen, so dass Datenbank oder Teile bspw. auf macOS und Android nutzbar sind. Das Konzept ist bei weitem noch nicht fertig, d. h. wie crossplatform oder unabhängig und dafür synchronisierbar es im Ergebnis wird.
+
+Projektziel: Erster Entwurf einer einfachen Datenbank mit einfacher Oberfläche als Beispiel, um die Realisierbarkeit und Techniken zu prüfen.
+Es sollen ca. 2 UI-Seiten (Activities) werden, z. B. Datensatzanzeige und Suche, jeweils Hoch- und Querformat kompatibel.
+Es soll eine einfache SQLite Datenbank angebunden werden mit mindestens einer Tabelle. Zunächst mit Lese-Option, falls zeitlich möglich und mit Such- und Schreiboption.
+
+Zeitplanung:
+Mo: Erste Activity mit wenigen Feldern, einfache DB-Schnittstelle, die erweitert werden kann, eine Datenbanktabelle, einfacher Zugriff lesend oder schreibend
+Di: Activity verbessern mit mehr Feldern, übersichtlicher, Hoch-/Querformat einrichten. Datenbankanbindung entsprechend erweitern.
+Mi: 2. Activity bspw. als Suchseite. Datenbankanbindung entsprechend erweitern.
+Do: 2. Activity verbessern, hoch/quer
+
+Sofern es schneller geht als erwartet:
+- Datenanzeige, Suche und Eingabe realisieren
+- weitere relationale Tabellen
+- UI verbessern für einfachere und kontrollierte Eingaben

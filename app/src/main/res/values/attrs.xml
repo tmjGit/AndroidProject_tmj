@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Globals">
+        <attr name="leftRelation" format="integer" />
+        <attr name="topRelation" format="integer" />
+        <attr name="widthRelation" format="integer" />
+        <attr name="heigthRelation" format="integer" />
+    </declare-styleable>
+
+</resources>
+
